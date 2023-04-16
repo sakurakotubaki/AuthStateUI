@@ -11,7 +11,7 @@ class PageA extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Hello World',
+              'Hello Riverpod',
               style: TextStyle(fontSize: 30),
             )
           ],
